@@ -1,0 +1,4 @@
+{
+  "name": "@libs/libA/entry2",
+  "main": "../dist/entry2.js"
+}

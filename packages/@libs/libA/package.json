@@ -1,0 +1,9 @@
+{
+  "name": "@libs/libA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash.startswith": "^4.2.1"
+  }
+}
